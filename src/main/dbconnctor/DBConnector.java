@@ -19,7 +19,7 @@ public class DBConnector {
 
 
 
-        // 1.mySQL 데이터베이스 JDBC 드라이버를 로딩한다.
+        // 1.mySQL 데이터베이스 JDBC 드라이버를 로딩한다
 
         try {
 
